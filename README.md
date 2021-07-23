@@ -11,7 +11,7 @@
 Using git: 
 
 ```bash
-git clone
+git clone https://github.com/gmllasacas/bingo_kata.git
 ```
 
 ## Usage
